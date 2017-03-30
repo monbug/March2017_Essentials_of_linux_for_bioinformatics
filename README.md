@@ -1,1 +1,1 @@
-# March_2017_Essentials_of_linux_for_bioinformatics
+# March_2017_Essentials_of_inux_for_bioinformatics
